@@ -1,2 +1,26 @@
+body{
+  margin:0;
+  font-family:Arial, sans-serif;
+  text-align:center;
+}
+
+/* Movie poster */
+.moviePic{
+  height:450px;
+  width:300px;
+  opacity:0.9;
+  display:block;
+  margin:40px auto;
+}
+
+/* Movie description */
+.movieDetail{
+  position:relative;
+  top:20px;
+  width:60%;
+  margin:auto;
+  text-align:center;
+  font-size:18px;
+}
 
 /* Your CSS Code here. */
